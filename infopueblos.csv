@@ -1,0 +1,1177 @@
+,Provincia,Municipio,Precio medio m2
+0,/andalucia/almeria-provincia/,Almería,1801.99
+1,/andalucia/almeria-provincia/,Adra,995.9
+2,/andalucia/almeria-provincia/,Albox,956.4
+3,/andalucia/almeria-provincia/,Antas,1136.4
+4,/andalucia/almeria-provincia/,Berja,785.8
+5,/andalucia/almeria-provincia/,Carboneras,1721.3
+6,/andalucia/almeria-provincia/,El Ejido,1446.03
+7,/andalucia/almeria-provincia/,Garrucha,2022.79
+8,/andalucia/almeria-provincia/,Huércal de Almería,1443.8
+9,/andalucia/almeria-provincia/,Huércal-Overa,1063
+10,/andalucia/almeria-provincia/,La Mojonera,819.1
+11,/andalucia/almeria-provincia/,Mojácar,2676.23
+12,/andalucia/almeria-provincia/,Nijar,1972.95
+13,/andalucia/almeria-provincia/,Olula del Río,841.8
+14,/andalucia/almeria-provincia/,Pulpi,1391.8
+15,/andalucia/almeria-provincia/,Roquetas de Mar,1773.61
+16,/andalucia/almeria-provincia/,San Juan de los Terreros,2576.8
+17,/andalucia/almeria-provincia/,Turre,1271.4
+18,/andalucia/almeria-provincia/,Vélez Blanco,690.5
+19,/andalucia/almeria-provincia/,Vélez Rubio,619.7
+20,/andalucia/almeria-provincia/,Vera,2466.81
+21,/andalucia/almeria-provincia/,Vícar,1373.77
+22,/andalucia/cadiz-provincia/,Cádiz,3381.78
+23,/andalucia/cadiz-provincia/,Alcalá de los Gazules,1015.3
+24,/andalucia/cadiz-provincia/,Algeciras,1518.61
+25,/andalucia/cadiz-provincia/,Arcos de la Frontera,1241
+26,/andalucia/cadiz-provincia/,Barbate,2778.41
+27,/andalucia/cadiz-provincia/,Benalup,1316.8
+28,/andalucia/cadiz-provincia/,Bornos,830.5
+29,/andalucia/cadiz-provincia/,Chiclana de la Frontera,2613.54
+30,/andalucia/cadiz-provincia/,Chipiona,2962.78
+31,/andalucia/cadiz-provincia/,Conil de la Frontera,3619.73
+32,/andalucia/cadiz-provincia/,El Puerto de Santa María,3051.81
+33,/andalucia/cadiz-provincia/,Jerez de la Frontera,1993.11
+34,/andalucia/cadiz-provincia/,Jimena de la Frontera,1163
+35,/andalucia/cadiz-provincia/,La Alcaidesa,3299.2
+36,/andalucia/cadiz-provincia/,La Linea de la Concepcion,1618.18
+37,/andalucia/cadiz-provincia/,Los Barrios,2141.7
+38,/andalucia/cadiz-provincia/,Medina-Sidonia,1490.1
+39,/andalucia/cadiz-provincia/,Olvera,808.1
+40,/andalucia/cadiz-provincia/,Puerto Real,2211.68
+41,/andalucia/cadiz-provincia/,Rota,3247.68
+42,/andalucia/cadiz-provincia/,San Fernando,2060.44
+43,/andalucia/cadiz-provincia/,San Roque,1529.3
+44,/andalucia/cadiz-provincia/,Sanlúcar de Barrameda,2387.76
+45,/andalucia/cadiz-provincia/,Sotogrande,4081.91
+46,/andalucia/cadiz-provincia/,Tarifa,4487.5
+47,/andalucia/cadiz-provincia/,Ubrique,1220.56
+48,/andalucia/cadiz-provincia/,Vejer de la Frontera,2284
+49,/andalucia/cadiz-provincia/,Villamartin,970.1
+50,/andalucia/cadiz-provincia/,Zahara de los Atunes,4584.81
+51,/andalucia/cordoba-provincia/,Córdoba,1849.74
+52,/andalucia/cordoba-provincia/,Aguilar de la Frontera,768.3
+53,/andalucia/cordoba-provincia/,Cabra,1041.7
+54,/andalucia/cordoba-provincia/,Iznajar,838.5
+55,/andalucia/cordoba-provincia/,La Carlota,1086.5
+56,/andalucia/cordoba-provincia/,Lucena,1143.98
+57,/andalucia/cordoba-provincia/,Montilla,848.2
+58,/andalucia/cordoba-provincia/,Montoro,656.5
+59,/andalucia/cordoba-provincia/,Palma del Río,902.2
+60,/andalucia/cordoba-provincia/,Peñarroya-Pueblonuevo,440.9
+61,/andalucia/cordoba-provincia/,Pozoblanco,714.3
+62,/andalucia/cordoba-provincia/,Priego de Córdoba,893.9
+63,/andalucia/cordoba-provincia/,Puente Genil,978.3
+64,/andalucia/cordoba-provincia/,Villafranca de Cordoba,932.5
+65,/andalucia/cordoba-provincia/,Villarrubia,1132.4
+66,/andalucia/granada-provincia/,Granada,2708.06
+67,/andalucia/granada-provincia/,Albolote,1730.8
+68,/andalucia/granada-provincia/,Albuñol,1120
+69,/andalucia/granada-provincia/,Alfacar,1126.7
+70,/andalucia/granada-provincia/,Alhendin,1794.75
+71,/andalucia/granada-provincia/,Almuñécar,3293.42
+72,/andalucia/granada-provincia/,Armilla,2170.55
+73,/andalucia/granada-provincia/,Atarfe,1431.5
+74,/andalucia/granada-provincia/,Baza,714.3
+75,/andalucia/granada-provincia/,Cajar,1411.3
+76,/andalucia/granada-provincia/,Castell de Ferro,1988.9
+77,/andalucia/granada-provincia/,Cenes de la Vega,1819.1
+78,/andalucia/granada-provincia/,Churriana de la Vega,1934.94
+79,/andalucia/granada-provincia/,Cijuela,1091.6
+80,/andalucia/granada-provincia/,Cullar-Vega,1473.3
+81,/andalucia/granada-provincia/,Gojar,1432.9
+82,/andalucia/granada-provincia/,Huétor-Tajar,782.2
+83,/andalucia/granada-provincia/,Huétor-Vega,1702.9
+84,/andalucia/granada-provincia/,Illora,527.8
+85,/andalucia/granada-provincia/,La Zubia,1718.44
+86,/andalucia/granada-provincia/,Lanjaron,870.6
+87,/andalucia/granada-provincia/,Las Gabias,1663.78
+88,/andalucia/granada-provincia/,Loja,766.1
+89,/andalucia/granada-provincia/,Maracena,1822.8
+90,/andalucia/granada-provincia/,Molvizar,923.9
+91,/andalucia/granada-provincia/,Monachil,1707.3
+92,/andalucia/granada-provincia/,Montefrio,705
+93,/andalucia/granada-provincia/,Motril,1968.15
+94,/andalucia/granada-provincia/,Ogijares,1695.2
+95,/andalucia/granada-provincia/,Orgiva,1053.8
+96,/andalucia/granada-provincia/,Otura,1558.4
+97,/andalucia/granada-provincia/,Padul,1191.6
+98,/andalucia/granada-provincia/,Peligros,1442.8
+99,/andalucia/granada-provincia/,Pinos-Puente,554.8
+100,/andalucia/granada-provincia/,Pulianas,1420.5
+101,/andalucia/granada-provincia/,Salobreña,2389.92
+102,/andalucia/granada-provincia/,Santa Fe,1020
+103,/andalucia/granada-provincia/,Sierra Nevada,3192.55
+104,/andalucia/granada-provincia/,Vélez de Benaudalla,1142.9
+105,/andalucia/huelva-provincia/,Huelva,1746.03
+106,/andalucia/huelva-provincia/,Aljaraque,1790.1
+107,/andalucia/huelva-provincia/,Almonte,2386.27
+108,/andalucia/huelva-provincia/,Ayamonte,2052.72
+109,/andalucia/huelva-provincia/,Cartaya,2007.01
+110,/andalucia/huelva-provincia/,Isla Cristina,1776.6
+111,/andalucia/huelva-provincia/,Islantilla,2965.01
+112,/andalucia/huelva-provincia/,La Antilla,3233.5
+113,/andalucia/huelva-provincia/,La Palma del Condado,861.5
+114,/andalucia/huelva-provincia/,Lepe,1328.8
+115,/andalucia/huelva-provincia/,Punta Umbria,2401.66
+116,/andalucia/jaen-provincia/,Jaén,1466.04
+117,/andalucia/jaen-provincia/,Alcalá la Real,926
+118,/andalucia/jaen-provincia/,Andújar,823
+119,/andalucia/jaen-provincia/,Baeza,1019.2
+120,/andalucia/jaen-provincia/,Bailén,565.4
+121,/andalucia/jaen-provincia/,Beas de Segura,478
+122,/andalucia/jaen-provincia/,Huelma,482.8
+123,/andalucia/jaen-provincia/,Jamilena,583.5
+124,/andalucia/jaen-provincia/,Jodar,579.2
+125,/andalucia/jaen-provincia/,La Carolina,597
+126,/andalucia/jaen-provincia/,La Guardia de Jaén,1107.1
+127,/andalucia/jaen-provincia/,Linares,957.528
+128,/andalucia/jaen-provincia/,Los Villares,825
+129,/andalucia/jaen-provincia/,Mancha Real,683
+130,/andalucia/jaen-provincia/,Martos,808.2
+131,/andalucia/jaen-provincia/,Mengíbar,577.9
+132,/andalucia/jaen-provincia/,Quesada,465.5
+133,/andalucia/jaen-provincia/,Torredelcampo,794.4
+134,/andalucia/jaen-provincia/,Torredonjimeno,602.7
+135,/andalucia/jaen-provincia/,Ubeda,901.9
+136,/andalucia/jaen-provincia/,Villacarrillo,565.6
+137,/andalucia/jaen-provincia/,Villanueva del Arzobispo,456.6
+138,/andalucia/malaga-provincia/,Málaga,3968.53
+139,/andalucia/malaga-provincia/,Alameda,898.1
+140,/andalucia/malaga-provincia/,Alcaucín,1684.5
+141,/andalucia/malaga-provincia/,Algarrobo,2092.5
+142,/andalucia/malaga-provincia/,Algarrobo-Costa,3636.4
+143,/andalucia/malaga-provincia/,Alhaurín de la Torre,2678.4
+144,/andalucia/malaga-provincia/,Alhaurín el Grande,2185.76
+145,/andalucia/malaga-provincia/,Almayate Bajo,3224.5
+146,/andalucia/malaga-provincia/,Alora,1596.9
+147,/andalucia/malaga-provincia/,Antequera,1611.49
+148,/andalucia/malaga-provincia/,Archidona,1263.2
+149,/andalucia/malaga-provincia/,Benahavís,5601.84
+150,/andalucia/malaga-provincia/,Benajarafe,3417.3
+151,/andalucia/malaga-provincia/,Benalmádena,4188.09
+152,/andalucia/malaga-provincia/,Caleta de Velez,3140.5
+153,/andalucia/malaga-provincia/,Canillas de Aceituno,1450.8
+154,/andalucia/malaga-provincia/,Cártama,2461.88
+155,/andalucia/malaga-provincia/,Casabermeja,2081.9
+156,/andalucia/malaga-provincia/,Chilches,2833.3
+157,/andalucia/malaga-provincia/,Coin,2185.7
+158,/andalucia/malaga-provincia/,Colmenar,1207.9
+159,/andalucia/malaga-provincia/,Competa,1969.1
+160,/andalucia/malaga-provincia/,Estepona,5021.35
+161,/andalucia/malaga-provincia/,Frigiliana,3290
+162,/andalucia/malaga-provincia/,Fuengirola,4452.47
+163,/andalucia/malaga-provincia/,Fuente de Piedra,1427
+164,/andalucia/malaga-provincia/,Manilva,3043.29
+165,/andalucia/malaga-provincia/,Marbella,5967.44
+166,/andalucia/malaga-provincia/,Mijas,3716.85
+167,/andalucia/malaga-provincia/,Mollina,1136.4
+168,/andalucia/malaga-provincia/,Monda,2540.5
+169,/andalucia/malaga-provincia/,Nerja,3964.35
+170,/andalucia/malaga-provincia/,Ojén,4226.3
+171,/andalucia/malaga-provincia/,Periana,1268
+172,/andalucia/malaga-provincia/,Pizarra,1809.5
+173,/andalucia/malaga-provincia/,Rincón de la Victoria,3609.93
+174,/andalucia/malaga-provincia/,Ronda,1763.96
+175,/andalucia/malaga-provincia/,Sayalonga,1966.7
+176,/andalucia/malaga-provincia/,Tolox,1023.8
+177,/andalucia/malaga-provincia/,Torre del Mar,3458.68
+178,/andalucia/malaga-provincia/,Torremolinos,4198.62
+179,/andalucia/malaga-provincia/,Torrox,3190.3
+180,/andalucia/malaga-provincia/,Vélez-Malaga,2249.1
+181,/andalucia/malaga-provincia/,Viñuela,1974.7
+182,/andalucia/sevilla-provincia/,Sevilla,2932.51
+183,/andalucia/sevilla-provincia/,Alcalá de Guadaira,1703.74
+184,/andalucia/sevilla-provincia/,Alcalá del Río,1111.1
+185,/andalucia/sevilla-provincia/,Almensilla,1661.5
+186,/andalucia/sevilla-provincia/,Aznalcazar,1227.3
+187,/andalucia/sevilla-provincia/,Bollullos de la Mitacion,1851.2
+188,/andalucia/sevilla-provincia/,Bormujos,2134.36
+189,/andalucia/sevilla-provincia/,Burguillos,1150
+190,/andalucia/sevilla-provincia/,Camas,1847.5
+191,/andalucia/sevilla-provincia/,Cantillana,913.6
+192,/andalucia/sevilla-provincia/,Carmona,1152.2
+193,/andalucia/sevilla-provincia/,Castilblanco de los Arroyos,1050
+194,/andalucia/sevilla-provincia/,Castilleja de la Cuesta,1860.7
+195,/andalucia/sevilla-provincia/,Coria del Río,1491.1
+196,/andalucia/sevilla-provincia/,Dos Hermanas,1784.9
+197,/andalucia/sevilla-provincia/,Ecija,1075.7
+198,/andalucia/sevilla-provincia/,El Castillo de las Guardas,1162.6
+199,/andalucia/sevilla-provincia/,El Viso del Alcor,952.1
+200,/andalucia/sevilla-provincia/,Espartinas,1827.07
+201,/andalucia/sevilla-provincia/,Gelves,1885.1
+202,/andalucia/sevilla-provincia/,Gerena,1315.8
+203,/andalucia/sevilla-provincia/,Gines,1936.6
+204,/andalucia/sevilla-provincia/,La Puebla del Rio,1277.8
+205,/andalucia/sevilla-provincia/,La Rinconada,1629.7
+206,/andalucia/sevilla-provincia/,Lora del Río,879.1
+207,/andalucia/sevilla-provincia/,Los Palacios y Villafranca,1330
+208,/andalucia/sevilla-provincia/,Mairena del Alcor,1319.3
+209,/andalucia/sevilla-provincia/,Mairena del Aljarafe,2125.25
+210,/andalucia/sevilla-provincia/,Marchena,848
+211,/andalucia/sevilla-provincia/,Montequinto,2474.52
+212,/andalucia/sevilla-provincia/,Moron de la Frontera,879.1
+213,/andalucia/sevilla-provincia/,Olivares,988.3
+214,/andalucia/sevilla-provincia/,Palomares del Río,1949.4
+215,/andalucia/sevilla-provincia/,Pilas,885.9
+216,/andalucia/sevilla-provincia/,San Jose de la Rinconada,1757.6
+217,/andalucia/sevilla-provincia/,San Juan de Aznalfarache,1635.49
+218,/andalucia/sevilla-provincia/,Sanlúcar la Mayor,1401.5
+219,/andalucia/sevilla-provincia/,Tocina,894.2
+220,/andalucia/sevilla-provincia/,Tomares,2462.84
+221,/andalucia/sevilla-provincia/,Umbrete,1639.3
+222,/andalucia/sevilla-provincia/,Utrera,1439.46
+223,/andalucia/sevilla-provincia/,Valencina de la Concepcion,1875
+224,/andalucia/sevilla-provincia/,Villanueva del Ariscal,1300.9
+225,/aragon/huesca-provincia/,Huesca,1949.86
+226,/aragon/huesca-provincia/,Barbastro,1398.2
+227,/aragon/huesca-provincia/,Jaca,2580.24
+228,/aragon/huesca-provincia/,Monzon,1228.4
+229,/aragon/huesca-provincia/,Sabiñanigo,1745.11
+230,/aragon/teruel-provincia/,Teruel,2055.26
+231,/aragon/zaragoza-provincia/,Zaragoza,2349.67
+232,/aragon/zaragoza-provincia/,Borja,728.5
+233,/aragon/zaragoza-provincia/,Cadrete,1808.4
+234,/aragon/zaragoza-provincia/,Calatayud,1013
+235,/aragon/zaragoza-provincia/,Caspe,725.1
+236,/aragon/zaragoza-provincia/,Cuarte de Huerva,2187.5
+237,/aragon/zaragoza-provincia/,La Muela,1514.1
+238,/aragon/zaragoza-provincia/,Tarazona,413
+239,/aragon/zaragoza-provincia/,Utebo,1739
+240,/aragon/zaragoza-provincia/,Zuera,1306.7
+241,/asturias/asturias/,Oviedo,2386.55
+242,/asturias/asturias/,Aller,934.8
+243,/asturias/asturias/,Avilés,1725.11
+244,/asturias/asturias/,Cangas de Narcea,918.4
+245,/asturias/asturias/,Cangas de Onís,1722.2
+246,/asturias/asturias/,Carreño,1771
+247,/asturias/asturias/,Castrillon,2258.38
+248,/asturias/asturias/,Castropol,1259.8
+249,/asturias/asturias/,Colunga,1776.5
+250,/asturias/asturias/,Corvera de Asturias,1460
+251,/asturias/asturias/,Cudillero,1604.3
+252,/asturias/asturias/,Gijón,2711.02
+253,/asturias/asturias/,Gozón,2707.83
+254,/asturias/asturias/,Langreo,1032.73
+255,/asturias/asturias/,Laviana,795.5
+256,/asturias/asturias/,Lena,937.5
+257,/asturias/asturias/,Llanera,1564.3
+258,/asturias/asturias/,Llanes,2377.12
+259,/asturias/asturias/,Luarca - Valdés,1271.5
+260,/asturias/asturias/,Mieres del Camino,1042.34
+261,/asturias/asturias/,Parres,1055.6
+262,/asturias/asturias/,Pravia,1111.9
+263,/asturias/asturias/,Quirós,713.8
+264,/asturias/asturias/,Ribadesella,2794.2
+265,/asturias/asturias/,Salas,791.3
+266,/asturias/asturias/,San Martín del Rey Aurelio,872.3
+267,/asturias/asturias/,Siero,1650.05
+268,/asturias/asturias/,Vegadeo,1000
+269,/baleares/balears-illes/,Palma de Mallorca,5513.23
+270,/baleares/balears-illes/,Alaior,4649.5
+271,/baleares/balears-illes/,Alaró,4600
+272,/baleares/balears-illes/,Alcúdia,5005.18
+273,/baleares/balears-illes/,Algaida,3525.4
+274,/baleares/balears-illes/,Andratx,8641.24
+275,/baleares/balears-illes/,Arta,4938.43
+276,/baleares/balears-illes/,Binissalem,3181.8
+277,/baleares/balears-illes/,Bunyola,4893.6
+278,/baleares/balears-illes/,Cala Millor,3845.4
+279,/baleares/balears-illes/,Calvià,7553.19
+280,/baleares/balears-illes/,Campanet,4254.4
+281,/baleares/balears-illes/,Campos,3805.7
+282,/baleares/balears-illes/,Capdepera,4436.59
+283,/baleares/balears-illes/,Ciutadella de Menorca,4395.45
+284,/baleares/balears-illes/,Eivissa,7309.24
+285,/baleares/balears-illes/,Es Castell,3846.2
+286,/baleares/balears-illes/,Es Mercadal,4738.84
+287,/baleares/balears-illes/,Esporles,4714.3
+288,/baleares/balears-illes/,Felanitx,3537.51
+289,/baleares/balears-illes/,Ferreries,3064.5
+290,/baleares/balears-illes/,Formentera,9230.8
+291,/baleares/balears-illes/,Inca,3040.46
+292,/baleares/balears-illes/,Lloseta,3262.1
+293,/baleares/balears-illes/,Llucmajor,4536.31
+294,/baleares/balears-illes/,Manacor,3428.54
+295,/baleares/balears-illes/,Maó/Mahón,3988.17
+296,/baleares/balears-illes/,Marratxi,4048.02
+297,/baleares/balears-illes/,Muro,2735.76
+298,/baleares/balears-illes/,Petra,2480.9
+299,/baleares/balears-illes/,Pobla (Sa),2941.2
+300,/baleares/balears-illes/,Pollença,5238.4
+301,/baleares/balears-illes/,Porreres,2868.7
+302,/baleares/balears-illes/,Puigpunyent,4600
+303,/baleares/balears-illes/,Sa Coma,4341.9
+304,/baleares/balears-illes/,Sa Ràpita,5830.6
+305,/baleares/balears-illes/,Sant Antoni de Portmany,7076.04
+306,/baleares/balears-illes/,Sant Joan de Labritja,8261.4
+307,/baleares/balears-illes/,Sant Josep de Sa Talaia,8208.94
+308,/baleares/balears-illes/,Sant Lluis,5173.7
+309,/baleares/balears-illes/,Santa Eulalia del Río,8295.39
+310,/baleares/balears-illes/,Santa Margalida,3918.59
+311,/baleares/balears-illes/,Santanyí,5743.77
+312,/baleares/balears-illes/,Selva,3186.1
+313,/baleares/balears-illes/,Sencelles,3816.6
+314,/baleares/balears-illes/,Ses Salines (Mallorca),5231.6
+315,/baleares/balears-illes/,Soller,5524.7
+316,/baleares/balears-illes/,Son Servera,3427.4
+317,/canarias/las-palmas/,Las Palmas de Gran Canaria,2842.96
+318,/canarias/las-palmas/,Agüimes,2107.92
+319,/canarias/las-palmas/,Antigua,3114.8
+320,/canarias/las-palmas/,Arrecife,2506.4
+321,/canarias/las-palmas/,Arucas,1850.5
+322,/canarias/las-palmas/,Gáldar,1591.78
+323,/canarias/las-palmas/,Haria,3119
+324,/canarias/las-palmas/,Ingenio,1582.97
+325,/canarias/las-palmas/,La Oliva,3696.69
+326,/canarias/las-palmas/,Mogán,4611.87
+327,/canarias/las-palmas/,Moya,1615.8
+328,/canarias/las-palmas/,Pajara,3493.6
+329,/canarias/las-palmas/,Puerto del Rosario,2200.04
+330,/canarias/las-palmas/,San Bartolomé,3132.5
+331,/canarias/las-palmas/,San Bartolomé de Tirajana,4749.74
+332,/canarias/las-palmas/,Santa Brigida,2137.2
+333,/canarias/las-palmas/,Santa Lucía de Tirajana,1947.18
+334,/canarias/las-palmas/,Santa Maria de Guia de Gran Canaria,1366.9
+335,/canarias/las-palmas/,Teguise,3522.94
+336,/canarias/las-palmas/,Telde,2012.43
+337,/canarias/las-palmas/,Teror,1634.2
+338,/canarias/las-palmas/,Tias,4259.7
+339,/canarias/las-palmas/,Tuineje,2532.1
+340,/canarias/las-palmas/,Valsequillo de Gran Canaria,1643
+341,/canarias/las-palmas/,Vega de San Mateo,1643.1
+342,/canarias/las-palmas/,Yaiza,3868.25
+343,/canarias/santa-cruz-de-tenerife-provincia/,Santa Cruz de Tenerife,2859.69
+344,/canarias/santa-cruz-de-tenerife-provincia/,Adeje,4762.5
+345,/canarias/santa-cruz-de-tenerife-provincia/,Arafo,1788.5
+346,/canarias/santa-cruz-de-tenerife-provincia/,Arico,2419.1
+347,/canarias/santa-cruz-de-tenerife-provincia/,Arona,4070.82
+348,/canarias/santa-cruz-de-tenerife-provincia/,Buenavista del norte,1937.9
+349,/canarias/santa-cruz-de-tenerife-provincia/,Candelaria,2836.93
+350,/canarias/santa-cruz-de-tenerife-provincia/,El Paso,2527
+351,/canarias/santa-cruz-de-tenerife-provincia/,El Rosario,2544.36
+352,/canarias/santa-cruz-de-tenerife-provincia/,Garachico,2408.6
+353,/canarias/santa-cruz-de-tenerife-provincia/,Granadilla de Abona,3017.98
+354,/canarias/santa-cruz-de-tenerife-provincia/,Guia de Isora,4496.18
+355,/canarias/santa-cruz-de-tenerife-provincia/,Icod de los Vinos,1786.93
+356,/canarias/santa-cruz-de-tenerife-provincia/,La Orotava,2312.81
+357,/canarias/santa-cruz-de-tenerife-provincia/,Los Llanos de Aridane,2523.4
+358,/canarias/santa-cruz-de-tenerife-provincia/,Los Realejos,2506.36
+359,/canarias/santa-cruz-de-tenerife-provincia/,Puerto de la Cruz,3447.66
+360,/canarias/santa-cruz-de-tenerife-provincia/,San Cristóbal de la Laguna,2411.79
+361,/canarias/santa-cruz-de-tenerife-provincia/,San Miguel de Abona,3191.14
+362,/canarias/santa-cruz-de-tenerife-provincia/,Santa Ursula,2507.34
+363,/canarias/santa-cruz-de-tenerife-provincia/,Santiago del Teide,3720.34
+364,/canarias/santa-cruz-de-tenerife-provincia/,Sauzal,2951.2
+365,/canarias/santa-cruz-de-tenerife-provincia/,Tacoronte,2582.54
+366,/canarias/santa-cruz-de-tenerife-provincia/,Tegueste,2015.2
+367,/cantabria/cantabria/,Santander,3318.6
+368,/cantabria/cantabria/,Ajo,2317.6
+369,/cantabria/cantabria/,Alfoz de Lloredo,1820.9
+370,/cantabria/cantabria/,Ampuero,1287.7
+371,/cantabria/cantabria/,Argoños,1996.1
+372,/cantabria/cantabria/,Cabezon de la Sal,1737.6
+373,/cantabria/cantabria/,Camargo,2186.65
+374,/cantabria/cantabria/,Castañeda,2023.1
+375,/cantabria/cantabria/,Castro-Urdiales,2889.7
+376,/cantabria/cantabria/,Colindres,2258.7
+377,/cantabria/cantabria/,Comillas,3746.7
+378,/cantabria/cantabria/,El Astillero,1938.1
+379,/cantabria/cantabria/,Guriezo,2162.5
+380,/cantabria/cantabria/,Isla,2720.2
+381,/cantabria/cantabria/,Laredo,2982.93
+382,/cantabria/cantabria/,Limpias,2205.9
+383,/cantabria/cantabria/,Los Corrales de Buelna,1344.1
+384,/cantabria/cantabria/,Marina de Cudeyo,2458.3
+385,/cantabria/cantabria/,Meruelo,2111.1
+386,/cantabria/cantabria/,Noja,3436.79
+387,/cantabria/cantabria/,Piélagos,2286.74
+388,/cantabria/cantabria/,Polanco,1600
+389,/cantabria/cantabria/,Ramales de la Victoria,1798
+390,/cantabria/cantabria/,Reinosa,1000
+391,/cantabria/cantabria/,Ribamontan al Mar,3779.01
+392,/cantabria/cantabria/,San Vicente de la Barquera,3115.5
+393,/cantabria/cantabria/,Santa Cruz de Bezana,2482.63
+394,/cantabria/cantabria/,Santoña,2142.9
+395,/cantabria/cantabria/,Suances,3078.6
+396,/cantabria/cantabria/,Torrelavega,1719.72
+397,/cantabria/cantabria/,Val de San Vicente,2562.5
+398,/castilla-y-leon/avila-provincia/,Ávila,1755.95
+399,/castilla-y-leon/avila-provincia/,Arenas de San Pedro,1049.1
+400,/castilla-y-leon/avila-provincia/,Arévalo,958.3
+401,/castilla-y-leon/avila-provincia/,El Tiemblo,1120
+402,/castilla-y-leon/avila-provincia/,La Adrada,1183.5
+403,/castilla-y-leon/avila-provincia/,Las Navas del Marqués,1436.5
+404,/castilla-y-leon/avila-provincia/,Navaluenga,1115.8
+405,/castilla-y-leon/avila-provincia/,Sotillo de la Adrada,1094.2
+406,/castilla-y-leon/burgos-provincia/,Burgos,2299.96
+407,/castilla-y-leon/burgos-provincia/,Aranda de Duero,1604.62
+408,/castilla-y-leon/burgos-provincia/,Briviesca,923.9
+409,/castilla-y-leon/burgos-provincia/,Medina de Pomar,989
+410,/castilla-y-leon/burgos-provincia/,Miranda de Ebro,1624.88
+411,/castilla-y-leon/leon-provincia/,León,1992.47
+412,/castilla-y-leon/leon-provincia/,Bembibre,427.2
+413,/castilla-y-leon/leon-provincia/,Cacabelos,630
+414,/castilla-y-leon/leon-provincia/,Camponaraya,717.4
+415,/castilla-y-leon/leon-provincia/,La Bañeza,638.4
+416,/castilla-y-leon/leon-provincia/,Ponferrada,966.927
+417,/castilla-y-leon/leon-provincia/,Puebla de Lillo,1215.3
+418,/castilla-y-leon/leon-provincia/,San Andrés del Rabanedo,1361.13
+419,/castilla-y-leon/leon-provincia/,Sariegos,1098
+420,/castilla-y-leon/leon-provincia/,Valencia de Don Juan,998.4
+421,/castilla-y-leon/leon-provincia/,Valverde de la Virgen,1303.1
+422,/castilla-y-leon/leon-provincia/,Villablino,557.4
+423,/castilla-y-leon/leon-provincia/,Villaquilambre,1525.9
+424,/castilla-y-leon/palencia-provincia/,Palencia,1712.86
+425,/castilla-y-leon/palencia-provincia/,Aguilar de Campoo,977.7
+426,/castilla-y-leon/palencia-provincia/,Grijota,1312.5
+427,/castilla-y-leon/palencia-provincia/,Guardo,646.3
+428,/castilla-y-leon/palencia-provincia/,Venta de Baños,926.3
+429,/castilla-y-leon/salamanca-provincia/,Salamanca,2605.1
+430,/castilla-y-leon/salamanca-provincia/,Béjar,824.6
+431,/castilla-y-leon/salamanca-provincia/,Ciudad-Rodrigo,715.7
+432,/castilla-y-leon/salamanca-provincia/,Santa Marta de Tormes,1631.3
+433,/castilla-y-leon/salamanca-provincia/,Villamayor,1460.8
+434,/castilla-y-leon/segovia-provincia/,Segovia,2417.04
+435,/castilla-y-leon/segovia-provincia/,Cerezo de Arriba,1173.7
+436,/castilla-y-leon/segovia-provincia/,Cuéllar,831.9
+437,/castilla-y-leon/segovia-provincia/,El Espinar,1876.59
+438,/castilla-y-leon/soria-provincia/,Soria,2028.82
+439,/castilla-y-leon/valladolid-provincia/,Valladolid,2229.52
+440,/castilla-y-leon/valladolid-provincia/,Aldeamayor de San Martin,1297.2
+441,/castilla-y-leon/valladolid-provincia/,Arroyo de la Encomienda,1976.34
+442,/castilla-y-leon/valladolid-provincia/,Laguna de Duero,1748.6
+443,/castilla-y-leon/valladolid-provincia/,Medina del Campo,1104.2
+444,/castilla-y-leon/valladolid-provincia/,Peñafiel,853.1
+445,/castilla-y-leon/valladolid-provincia/,Tordesillas,1173.6
+446,/castilla-y-leon/valladolid-provincia/,Tudela de Duero,1312.7
+447,/castilla-y-leon/zamora-provincia/,Zamora,1467.77
+448,/castilla-y-leon/zamora-provincia/,Benavente,808.6
+449,/castilla-la-mancha/albacete-provincia/,Albacete,1900.52
+450,/castilla-la-mancha/albacete-provincia/,Almansa,848.1
+451,/castilla-la-mancha/albacete-provincia/,Chinchilla de Monte-Aragón,1203.6
+452,/castilla-la-mancha/albacete-provincia/,Hellín,831.7
+453,/castilla-la-mancha/albacete-provincia/,La Roda,704.7
+454,/castilla-la-mancha/albacete-provincia/,Villarrobledo,631.1
+455,/castilla-la-mancha/ciudad-real-provincia/,Ciudad Real,1764.01
+456,/castilla-la-mancha/ciudad-real-provincia/,Alcazar de San Juan,1022.2
+457,/castilla-la-mancha/ciudad-real-provincia/,Almadén,266.5
+458,/castilla-la-mancha/ciudad-real-provincia/,Almagro,667.7
+459,/castilla-la-mancha/ciudad-real-provincia/,Almodovar del Campo,400
+460,/castilla-la-mancha/ciudad-real-provincia/,Argamasilla de Alba,479.8
+461,/castilla-la-mancha/ciudad-real-provincia/,Argamasilla de Calatrava,640
+462,/castilla-la-mancha/ciudad-real-provincia/,Daimiel,660.8
+463,/castilla-la-mancha/ciudad-real-provincia/,Malagon,574.7
+464,/castilla-la-mancha/ciudad-real-provincia/,Manzanares,659
+465,/castilla-la-mancha/ciudad-real-provincia/,Miguelturra,1192
+466,/castilla-la-mancha/ciudad-real-provincia/,Pedro Muñoz,330.6
+467,/castilla-la-mancha/ciudad-real-provincia/,Piedrabuena,500
+468,/castilla-la-mancha/ciudad-real-provincia/,Pozuelo de Calatrava,832.5
+469,/castilla-la-mancha/ciudad-real-provincia/,Puertollano,683.456
+470,/castilla-la-mancha/ciudad-real-provincia/,Ruidera,1300
+471,/castilla-la-mancha/ciudad-real-provincia/,Tomelloso,702.1
+472,/castilla-la-mancha/ciudad-real-provincia/,Valdepeñas,926.9
+473,/castilla-la-mancha/ciudad-real-provincia/,Villanueva de los Infantes,503.5
+474,/castilla-la-mancha/ciudad-real-provincia/,Villarrubia de los Ojos,552.8
+475,/castilla-la-mancha/cuenca-provincia/,Cuenca,1693.62
+476,/castilla-la-mancha/cuenca-provincia/,Arcas del Villar,1006
+477,/castilla-la-mancha/cuenca-provincia/,Horcajo de Santiago,780.1
+478,/castilla-la-mancha/cuenca-provincia/,Motilla del Palancar,802.9
+479,/castilla-la-mancha/cuenca-provincia/,San Clemente,582.5
+480,/castilla-la-mancha/cuenca-provincia/,Tarancon,1165.9
+481,/castilla-la-mancha/guadalajara-provincia/,Guadalajara,2170.74
+482,/castilla-la-mancha/guadalajara-provincia/,Albalate de Zorita,1079
+483,/castilla-la-mancha/guadalajara-provincia/,Alovera,1910.3
+484,/castilla-la-mancha/guadalajara-provincia/,Azuqueca de Henares,2160.44
+485,/castilla-la-mancha/guadalajara-provincia/,Cabanillas del Campo,1666.7
+486,/castilla-la-mancha/guadalajara-provincia/,Chiloeches,1716.9
+487,/castilla-la-mancha/guadalajara-provincia/,El Casar,1784.5
+488,/castilla-la-mancha/guadalajara-provincia/,Pioz,1777.5
+489,/castilla-la-mancha/guadalajara-provincia/,Sigüenza,1114.7
+490,/castilla-la-mancha/guadalajara-provincia/,Torrejón del Rey,1483.1
+491,/castilla-la-mancha/guadalajara-provincia/,Trijueque,1605.1
+492,/castilla-la-mancha/guadalajara-provincia/,Uceda,1515.2
+493,/castilla-la-mancha/guadalajara-provincia/,Villanueva de la Torre,1783.1
+494,/castilla-la-mancha/guadalajara-provincia/,Yebes,1789.1
+495,/castilla-la-mancha/toledo-provincia/,Toledo,2119.45
+496,/castilla-la-mancha/toledo-provincia/,Alameda de la Sagra,809.7
+497,/castilla-la-mancha/toledo-provincia/,Almorox,1002.3
+498,/castilla-la-mancha/toledo-provincia/,Camarena,1342.9
+499,/castilla-la-mancha/toledo-provincia/,Carranque,1746.7
+500,/castilla-la-mancha/toledo-provincia/,Cedillo del Condado,1621.2
+501,/castilla-la-mancha/toledo-provincia/,Chozas de Canales,889.5
+502,/castilla-la-mancha/toledo-provincia/,Consuegra,532.8
+503,/castilla-la-mancha/toledo-provincia/,El Viso de San Juan,1500
+504,/castilla-la-mancha/toledo-provincia/,Escalona,1000
+505,/castilla-la-mancha/toledo-provincia/,Esquivias,1367.6
+506,/castilla-la-mancha/toledo-provincia/,Hormigos,925.8
+507,/castilla-la-mancha/toledo-provincia/,Illescas,1849.6
+508,/castilla-la-mancha/toledo-provincia/,La Puebla de Montalban,698.3
+509,/castilla-la-mancha/toledo-provincia/,Las Ventas de Retamosa,1397.1
+510,/castilla-la-mancha/toledo-provincia/,Méntrida,1166.7
+511,/castilla-la-mancha/toledo-provincia/,Numancia de la Sagra,1272.7
+512,/castilla-la-mancha/toledo-provincia/,Ocaña,1419.72
+513,/castilla-la-mancha/toledo-provincia/,Olias del Rey,1459.9
+514,/castilla-la-mancha/toledo-provincia/,Ontigola,1450
+515,/castilla-la-mancha/toledo-provincia/,Recas,1076.3
+516,/castilla-la-mancha/toledo-provincia/,San Roman de los Montes,1201.6
+517,/castilla-la-mancha/toledo-provincia/,Santa Olalla,1039.7
+518,/castilla-la-mancha/toledo-provincia/,Seseña,1585.41
+519,/castilla-la-mancha/toledo-provincia/,Talavera de la Reina,1366.31
+520,/castilla-la-mancha/toledo-provincia/,Torrijos,1112.9
+521,/castilla-la-mancha/toledo-provincia/,Villaluenga de la Sagra,1031.3
+522,/castilla-la-mancha/toledo-provincia/,Yeles,1780.1
+523,/castilla-la-mancha/toledo-provincia/,Yepes,1327.7
+524,/castilla-la-mancha/toledo-provincia/,Yuncos,1692.3
+525,/cataluna/barcelona-provincia/,Barcelona,5462.26
+526,/cataluna/barcelona-provincia/,Abrera,1999.3
+527,/cataluna/barcelona-provincia/,Alella,3442.15
+528,/cataluna/barcelona-provincia/,Arenys de Mar,2957.07
+529,/cataluna/barcelona-provincia/,Arenys de Munt,2381.9
+530,/cataluna/barcelona-provincia/,Argentona,1984.81
+531,/cataluna/barcelona-provincia/,Badalona,2695.16
+532,/cataluna/barcelona-provincia/,Badia del Vallès,2231.7
+533,/cataluna/barcelona-provincia/,Barberà del Vallès,2567.6
+534,/cataluna/barcelona-provincia/,Begues,2512
+535,/cataluna/barcelona-provincia/,Berga,1102.3
+536,/cataluna/barcelona-provincia/,Bigues i Riells,1660.56
+537,/cataluna/barcelona-provincia/,Cabrera d'Anoia,1300.8
+538,/cataluna/barcelona-provincia/,Cabrera de Mar,2755.2
+539,/cataluna/barcelona-provincia/,Cabrils,2594.6
+540,/cataluna/barcelona-provincia/,Caldes de Montbui,2080
+541,/cataluna/barcelona-provincia/,Calella,2566.4
+542,/cataluna/barcelona-provincia/,Canet de Mar,2714.3
+543,/cataluna/barcelona-provincia/,Canovelles,1483.3
+544,/cataluna/barcelona-provincia/,Canyelles,1648.4
+545,/cataluna/barcelona-provincia/,Castellar del Vallès,2074.29
+546,/cataluna/barcelona-provincia/,Castellbisbal,2055.3
+547,/cataluna/barcelona-provincia/,Castelldefels,4455.93
+548,/cataluna/barcelona-provincia/,Castellet i la Gornal,1500
+549,/cataluna/barcelona-provincia/,Centelles,1988.9
+550,/cataluna/barcelona-provincia/,Cerdanyola del Vallès,3051.13
+551,/cataluna/barcelona-provincia/,Cervelló,2071.8
+552,/cataluna/barcelona-provincia/,Collbató,1968.3
+553,/cataluna/barcelona-provincia/,Corbera de Llobregat,1852.9
+554,/cataluna/barcelona-provincia/,Cornellà de Llobregat,3153.67
+555,/cataluna/barcelona-provincia/,Cubelles,2729.06
+556,/cataluna/barcelona-provincia/,Dosrius,1872.5
+557,/cataluna/barcelona-provincia/,El Masnou,3561.79
+558,/cataluna/barcelona-provincia/,El Prat de Llobregat,3220.78
+559,/cataluna/barcelona-provincia/,Esparreguera,2007.35
+560,/cataluna/barcelona-provincia/,Esplugues de Llobregat,4411.57
+561,/cataluna/barcelona-provincia/,Fogars de la Selva,1700
+562,/cataluna/barcelona-provincia/,Gavà,3892.53
+563,/cataluna/barcelona-provincia/,Gelida,1685.4
+564,/cataluna/barcelona-provincia/,Granollers,2502.35
+565,/cataluna/barcelona-provincia/,Hospitalet de Llobregat,3140.62
+566,/cataluna/barcelona-provincia/,Igualada,2181.23
+567,/cataluna/barcelona-provincia/,L'Ametlla del Vallès,1935.5
+568,/cataluna/barcelona-provincia/,La Garriga,2541.17
+569,/cataluna/barcelona-provincia/,La Llagosta,2269.6
+570,/cataluna/barcelona-provincia/,La Roca del Vallès,2664.8
+571,/cataluna/barcelona-provincia/,Lliçà d'Amunt,1900.5
+572,/cataluna/barcelona-provincia/,Lliçà de Vall,1772.7
+573,/cataluna/barcelona-provincia/,Malgrat de Mar,2329.1
+574,/cataluna/barcelona-provincia/,Manlleu,1171.1
+575,/cataluna/barcelona-provincia/,Manresa,1530.52
+576,/cataluna/barcelona-provincia/,Martorelles,2909
+577,/cataluna/barcelona-provincia/,Masquefa,1799
+578,/cataluna/barcelona-provincia/,Matadepera,2648.6
+579,/cataluna/barcelona-provincia/,Mataró,2432.19
+580,/cataluna/barcelona-provincia/,Mediona,1206.5
+581,/cataluna/barcelona-provincia/,Moià,1641.9
+582,/cataluna/barcelona-provincia/,Molins de Rei,3293.3
+583,/cataluna/barcelona-provincia/,Mollet del Vallès,2355.32
+584,/cataluna/barcelona-provincia/,Montcada i Reixac,2258.33
+585,/cataluna/barcelona-provincia/,Montornès del Vallès,2111.5
+586,/cataluna/barcelona-provincia/,Olesa de Bonesvalls,1416.8
+587,/cataluna/barcelona-provincia/,Olesa de Montserrat,2171.1
+588,/cataluna/barcelona-provincia/,Olivella,1767.3
+589,/cataluna/barcelona-provincia/,Palafolls,2000
+590,/cataluna/barcelona-provincia/,Palau-Solità i Plegamans,2440.4
+591,/cataluna/barcelona-provincia/,Parets del Vallès,2458.8
+592,/cataluna/barcelona-provincia/,Piera,1632.1
+593,/cataluna/barcelona-provincia/,Pineda de Mar,2396.19
+594,/cataluna/barcelona-provincia/,Polinyà,2693.5
+595,/cataluna/barcelona-provincia/,Premià de Dalt,3022.2
+596,/cataluna/barcelona-provincia/,Premiá de Mar,2857.59
+597,/cataluna/barcelona-provincia/,Ripollet,2422.03
+598,/cataluna/barcelona-provincia/,Rubí,2423.34
+599,/cataluna/barcelona-provincia/,Sabadell,2425.26
+600,/cataluna/barcelona-provincia/,Sallent,1000
+601,/cataluna/barcelona-provincia/,Sant Adriá de Besós,3071.47
+602,/cataluna/barcelona-provincia/,Sant Andreu de la Barca,2696.1
+603,/cataluna/barcelona-provincia/,Sant Andreu de Llavaneres,3242.21
+604,/cataluna/barcelona-provincia/,Sant Antoni de Vilamajor,2137.4
+605,/cataluna/barcelona-provincia/,Sant Boi de Llobregat,2785.27
+606,/cataluna/barcelona-provincia/,Sant Cebrià de Vallalta,2413.5
+607,/cataluna/barcelona-provincia/,Sant Celoni,2021.9
+608,/cataluna/barcelona-provincia/,Sant Cugat del Vallès,4941.87
+609,/cataluna/barcelona-provincia/,Sant esteve Sesrovires,2167
+610,/cataluna/barcelona-provincia/,Sant Feliu de Llobregat,3734.4
+611,/cataluna/barcelona-provincia/,Sant Fost de Campsentelles,1652.2
+612,/cataluna/barcelona-provincia/,Sant Fruitós de Bages,1759.3
+613,/cataluna/barcelona-provincia/,Sant Joan de Vilatorrada,1566.3
+614,/cataluna/barcelona-provincia/,Sant Joan Despí,4130.4
+615,/cataluna/barcelona-provincia/,Sant Just Desvern,4759.58
+616,/cataluna/barcelona-provincia/,Sant Pere de Ribes,3090.63
+617,/cataluna/barcelona-provincia/,Sant Pere de Vilamajor,1688.9
+618,/cataluna/barcelona-provincia/,Sant Pol de Mar,2743.8
+619,/cataluna/barcelona-provincia/,Sant Quirze del Vallès,2969.54
+620,/cataluna/barcelona-provincia/,Sant Sadurní d'Anoia,2150.3
+621,/cataluna/barcelona-provincia/,Sant Vicenç de Castellet,1487
+622,/cataluna/barcelona-provincia/,Sant Vicenç de Montalt,3284.11
+623,/cataluna/barcelona-provincia/,Sant Vicenç Dels Horts,2430.6
+624,/cataluna/barcelona-provincia/,Santa Coloma de Gramenet,2486.3
+625,/cataluna/barcelona-provincia/,Santa Eulàlia de Ronçana,1987.7
+626,/cataluna/barcelona-provincia/,Santa Margarida de Montbui,1036.4
+627,/cataluna/barcelona-provincia/,Santa Perpètua de Mogoda,2401.6
+628,/cataluna/barcelona-provincia/,Sentmenat,1884.8
+629,/cataluna/barcelona-provincia/,Seva,2086.1
+630,/cataluna/barcelona-provincia/,Sitges,5309.6
+631,/cataluna/barcelona-provincia/,Teià,2993.3
+632,/cataluna/barcelona-provincia/,Terrassa,2277.63
+633,/cataluna/barcelona-provincia/,Tona,2119.5
+634,/cataluna/barcelona-provincia/,Tordera,1633.23
+635,/cataluna/barcelona-provincia/,Torelló,1653.3
+636,/cataluna/barcelona-provincia/,Torrelles de Foix,1115.3
+637,/cataluna/barcelona-provincia/,Torrelles de Llobregat,2133.3
+638,/cataluna/barcelona-provincia/,Vacarisses,1847.8
+639,/cataluna/barcelona-provincia/,Vallgorguina,1673.2
+640,/cataluna/barcelona-provincia/,Vallirana,1867.6
+641,/cataluna/barcelona-provincia/,Vallromanes,2120.6
+642,/cataluna/barcelona-provincia/,Vic,2363.88
+643,/cataluna/barcelona-provincia/,Viladecans,3055.89
+644,/cataluna/barcelona-provincia/,Viladecavalls,2180.8
+645,/cataluna/barcelona-provincia/,Vilafranca del Penedès,2246.72
+646,/cataluna/barcelona-provincia/,Vilanova del Camí,1556.2
+647,/cataluna/barcelona-provincia/,Vilanova i la Geltrú,2874.25
+648,/cataluna/barcelona-provincia/,Vilassar de Dalt,2831.3
+649,/cataluna/barcelona-provincia/,Vilassar de Mar,3636.4
+650,/cataluna/girona-provincia/,Girona,2850.93
+651,/cataluna/girona-provincia/,Alp,3127.7
+652,/cataluna/girona-provincia/,Anglès,1211.5
+653,/cataluna/girona-provincia/,Banyoles,2155.8
+654,/cataluna/girona-provincia/,Begur,4238.9
+655,/cataluna/girona-provincia/,Bescanó,2294.9
+656,/cataluna/girona-provincia/,Blanes,2511.78
+657,/cataluna/girona-provincia/,Cadaqués,6769
+658,/cataluna/girona-provincia/,Calonge,3366.77
+659,/cataluna/girona-provincia/,Cassà de la Selva,1712.7
+660,/cataluna/girona-provincia/,Castell-Platja d'Aro,4025.69
+661,/cataluna/girona-provincia/,Castelló d'Empúries,1953.6
+662,/cataluna/girona-provincia/,El Port de la Selva,3669.7
+663,/cataluna/girona-provincia/,Empuriabrava,3590.19
+664,/cataluna/girona-provincia/,Figueres,1654.6
+665,/cataluna/girona-provincia/,Hostalric,1527.7
+666,/cataluna/girona-provincia/,L'Escala,3219.17
+667,/cataluna/girona-provincia/,La Bisbal d'Empordà,1603.8
+668,/cataluna/girona-provincia/,Llagostera,1996
+669,/cataluna/girona-provincia/,Llançà,2935.09
+670,/cataluna/girona-provincia/,Lloret de Mar,2698.05
+671,/cataluna/girona-provincia/,Maçanet de la Selva,1554.94
+672,/cataluna/girona-provincia/,Olot,1813.7
+673,/cataluna/girona-provincia/,Palafrugell,3258.93
+674,/cataluna/girona-provincia/,Palamós,3508.44
+675,/cataluna/girona-provincia/,Palau-Saverdera,2690.2
+676,/cataluna/girona-provincia/,Pals,3457.61
+677,/cataluna/girona-provincia/,Puigcerdà,3370.7
+678,/cataluna/girona-provincia/,Riells i Viabrea,1619.5
+679,/cataluna/girona-provincia/,Ripoll,1508.1
+680,/cataluna/girona-provincia/,Riudarenes,1164.8
+681,/cataluna/girona-provincia/,Roses,3493.9
+682,/cataluna/girona-provincia/,Sant Feliu de Guíxols,3314.63
+683,/cataluna/girona-provincia/,Santa Cristina d'Aro,2580.68
+684,/cataluna/girona-provincia/,Sils,1753.5
+685,/cataluna/girona-provincia/,Torroella de Montgrí,2620.16
+686,/cataluna/girona-provincia/,Tossa de Mar,3553.94
+687,/cataluna/girona-provincia/,Vidreres,1704.78
+688,/cataluna/lleida-provincia/,Lleida,1522.36
+689,/cataluna/lleida-provincia/,Alcarrás,1221.1
+690,/cataluna/lleida-provincia/,Alpicat,1446.8
+691,/cataluna/lleida-provincia/,Balaguer,653.8
+692,/cataluna/lleida-provincia/,Bellver de Cerdanya,3344.7
+693,/cataluna/lleida-provincia/,Cervera,837
+694,/cataluna/lleida-provincia/,La Seu d'Urgell,2609.5
+695,/cataluna/lleida-provincia/,Mollerussa,1229.5
+696,/cataluna/lleida-provincia/,Vielha,3846.2
+697,/cataluna/tarragona-provincia/,Tarragona,2128.48
+698,/cataluna/tarragona-provincia/,Alcanar,1611.81
+699,/cataluna/tarragona-provincia/,Altafulla,3125
+700,/cataluna/tarragona-provincia/,Amposta,1253.1
+701,/cataluna/tarragona-provincia/,Bonavista,1277.2
+702,/cataluna/tarragona-provincia/,Calafell,2456.19
+703,/cataluna/tarragona-provincia/,Cambrils,2771.98
+704,/cataluna/tarragona-provincia/,Creixell,1988.9
+705,/cataluna/tarragona-provincia/,Cunit,2305.54
+706,/cataluna/tarragona-provincia/,Deltebre,1468.7
+707,/cataluna/tarragona-provincia/,El Catllar,1573.7
+708,/cataluna/tarragona-provincia/,El Montmell,1346.8
+709,/cataluna/tarragona-provincia/,El Perello,1501.6
+710,/cataluna/tarragona-provincia/,El Vendrell,2028.15
+711,/cataluna/tarragona-provincia/,L'Ametlla de Mar,2299.75
+712,/cataluna/tarragona-provincia/,L'Ampolla,2119
+713,/cataluna/tarragona-provincia/,L'Hospitalet de l'Infant,2478.6
+714,/cataluna/tarragona-provincia/,La Bisbal del Penedès,1359.9
+715,/cataluna/tarragona-provincia/,La Pineda,2937.2
+716,/cataluna/tarragona-provincia/,La Pobla de Montornès,1496.6
+717,/cataluna/tarragona-provincia/,La Sénia,670.7
+718,/cataluna/tarragona-provincia/,Mont-Roig del Camp,2240.11
+719,/cataluna/tarragona-provincia/,Montblanc,1368.4
+720,/cataluna/tarragona-provincia/,Mora d'Ebre,702.8
+721,/cataluna/tarragona-provincia/,Reus,1708.86
+722,/cataluna/tarragona-provincia/,Riudoms,1600
+723,/cataluna/tarragona-provincia/,Salou,2775.11
+724,/cataluna/tarragona-provincia/,Sant Carles de la Rápita,1823.78
+725,/cataluna/tarragona-provincia/,Sant Jaume d'Enveja,1232.9
+726,/cataluna/tarragona-provincia/,Santa Oliva,1590.9
+727,/cataluna/tarragona-provincia/,Torredembarra,2388.61
+728,/cataluna/tarragona-provincia/,Tortosa,952.685
+729,/cataluna/tarragona-provincia/,Ulldecona,536.6
+730,/cataluna/tarragona-provincia/,Valls,1080
+731,/cataluna/tarragona-provincia/,Vila-Seca,1974.6
+732,/ceuta/,Ceuta,2697.51
+733,/comunitat-valenciana/alicante/,Alicante / Alacant,2743.46
+734,/comunitat-valenciana/alicante/,Albatera,1166.7
+735,/comunitat-valenciana/alicante/,Alcoy / Alcoi,1328.41
+736,/comunitat-valenciana/alicante/,Alfaz del Pi,3156
+737,/comunitat-valenciana/alicante/,Algorfa,2708.1
+738,/comunitat-valenciana/alicante/,Almoradí,1248
+739,/comunitat-valenciana/alicante/,Altea,3504.12
+740,/comunitat-valenciana/alicante/,Aspe,1187.77
+741,/comunitat-valenciana/alicante/,Banyeres de Mariola,804.8
+742,/comunitat-valenciana/alicante/,Benferri,1468.5
+743,/comunitat-valenciana/alicante/,Beniarbeig,2500
+744,/comunitat-valenciana/alicante/,Benidorm,3824.48
+745,/comunitat-valenciana/alicante/,Benijofar,2846.7
+746,/comunitat-valenciana/alicante/,Benissa,3608.96
+747,/comunitat-valenciana/alicante/,Benitachell,3194.28
+748,/comunitat-valenciana/alicante/,Bigastro,1343.8
+749,/comunitat-valenciana/alicante/,Busot,2040
+750,/comunitat-valenciana/alicante/,Callosa d'En Sarria,1541.7
+751,/comunitat-valenciana/alicante/,Callosa de Segura,870.6
+752,/comunitat-valenciana/alicante/,Calpe,3495.7
+753,/comunitat-valenciana/alicante/,Castalla,1366.7
+754,/comunitat-valenciana/alicante/,Ciudad Quesada,2887.1
+755,/comunitat-valenciana/alicante/,Cocentaina,995
+756,/comunitat-valenciana/alicante/,Cox,1445.8
+757,/comunitat-valenciana/alicante/,Crevillente,1202.4
+758,/comunitat-valenciana/alicante/,Daya Nueva,2162.1
+759,/comunitat-valenciana/alicante/,Daya Vieja,1986.7
+760,/comunitat-valenciana/alicante/,Denia,3353.53
+761,/comunitat-valenciana/alicante/,El Campello,3220.99
+762,/comunitat-valenciana/alicante/,El Verger,2883.9
+763,/comunitat-valenciana/alicante/,Elche / Elx,1934.58
+764,/comunitat-valenciana/alicante/,Elda,1048.33
+765,/comunitat-valenciana/alicante/,Els Poblets,2815.2
+766,/comunitat-valenciana/alicante/,Finestrat,3316.37
+767,/comunitat-valenciana/alicante/,Formentera del Segura,1721.3
+768,/comunitat-valenciana/alicante/,Gata de Gorgos,2105.3
+769,/comunitat-valenciana/alicante/,Gran Alacant,2935.41
+770,/comunitat-valenciana/alicante/,Guardamar del Segura,2643.09
+771,/comunitat-valenciana/alicante/,Hondón de las Nieves,1783.4
+772,/comunitat-valenciana/alicante/,Hondón de los Frailes,1237.9
+773,/comunitat-valenciana/alicante/,Ibi,1090.5
+774,/comunitat-valenciana/alicante/,Jacarilla,1645.9
+775,/comunitat-valenciana/alicante/,Jalón,2150
+776,/comunitat-valenciana/alicante/,Jávea/Xàbia,4166.18
+777,/comunitat-valenciana/alicante/,Jijona / Xixona,996.5
+778,/comunitat-valenciana/alicante/,La Nucia,2503.68
+779,/comunitat-valenciana/alicante/,La Romana,1673.6
+780,/comunitat-valenciana/alicante/,La Villajoyosa / Vila Joiosa,3091.93
+781,/comunitat-valenciana/alicante/,Los Montesinos,2826.5
+782,/comunitat-valenciana/alicante/,Monforte del Cid,1762
+783,/comunitat-valenciana/alicante/,Monovar,893.9
+784,/comunitat-valenciana/alicante/,Moraira,4474.01
+785,/comunitat-valenciana/alicante/,Moralet,1648.8
+786,/comunitat-valenciana/alicante/,Murla,1287.6
+787,/comunitat-valenciana/alicante/,Muro del Alcoy,1095.1
+788,/comunitat-valenciana/alicante/,Mutxamel,2242.56
+789,/comunitat-valenciana/alicante/,Novelda,1058.4
+790,/comunitat-valenciana/alicante/,Ondara,1720.8
+791,/comunitat-valenciana/alicante/,Orba,2329.7
+792,/comunitat-valenciana/alicante/,Orihuela,2902.48
+793,/comunitat-valenciana/alicante/,Pedreguer,2667.7
+794,/comunitat-valenciana/alicante/,Pego,1660
+795,/comunitat-valenciana/alicante/,Petrer,1293
+796,/comunitat-valenciana/alicante/,Pilar de la Horadada,3220.78
+797,/comunitat-valenciana/alicante/,Polop,2911.37
+798,/comunitat-valenciana/alicante/,Rafal,1107.2
+799,/comunitat-valenciana/alicante/,Rafol de Almunia,2109.4
+800,/comunitat-valenciana/alicante/,Relleu,1611.6
+801,/comunitat-valenciana/alicante/,Rojales,2215
+802,/comunitat-valenciana/alicante/,San Fulgencio,2250
+803,/comunitat-valenciana/alicante/,San Isidro,1388.2
+804,/comunitat-valenciana/alicante/,San Juan de Alicante,2401.1
+805,/comunitat-valenciana/alicante/,San Miguel de Salinas,2583.4
+806,/comunitat-valenciana/alicante/,San Vicente del Raspeig,2099.64
+807,/comunitat-valenciana/alicante/,Santa Pola,2828.96
+808,/comunitat-valenciana/alicante/,Sax,1000
+809,/comunitat-valenciana/alicante/,Teulada,1956.8
+810,/comunitat-valenciana/alicante/,Tibi,1674.2
+811,/comunitat-valenciana/alicante/,Torrevieja,2561.29
+812,/comunitat-valenciana/alicante/,Villena,780.474
+813,/comunitat-valenciana/castellon/,Castellón de la Plana / Castello de la Plana,1619.25
+814,/comunitat-valenciana/castellon/,Alcalá de Chivert,824.7
+815,/comunitat-valenciana/castellon/,Alcora,819.6
+816,/comunitat-valenciana/castellon/,Alcossebre,2640.9
+817,/comunitat-valenciana/castellon/,Almazora/Almassora,1343.66
+818,/comunitat-valenciana/castellon/,Almenara,1926.8
+819,/comunitat-valenciana/castellon/,Benicarló,1653.76
+820,/comunitat-valenciana/castellon/,Benicasim/Benicàssim,2881.17
+821,/comunitat-valenciana/castellon/,Borriol,1282.7
+822,/comunitat-valenciana/castellon/,Burriana,1305.03
+823,/comunitat-valenciana/castellon/,Cabanes,1896.59
+824,/comunitat-valenciana/castellon/,El Grau de Castelló,1519.2
+825,/comunitat-valenciana/castellon/,La Vall d'Uixo,991.5
+826,/comunitat-valenciana/castellon/,Moncofa,2092.03
+827,/comunitat-valenciana/castellon/,Nules,1177
+828,/comunitat-valenciana/castellon/,Onda,1035.1
+829,/comunitat-valenciana/castellon/,Oropesa del Mar,2159.77
+830,/comunitat-valenciana/castellon/,Peñíscola,2474.87
+831,/comunitat-valenciana/castellon/,San Jorge,1544.7
+832,/comunitat-valenciana/castellon/,Segorbe,1000
+833,/comunitat-valenciana/castellon/,Torreblanca,1570
+834,/comunitat-valenciana/castellon/,Villarreal/Vila-Real,1275.75
+835,/comunitat-valenciana/castellon/,Vinarós,1827.37
+836,/comunitat-valenciana/valencia-provincia/,València,3472.68
+837,/comunitat-valenciana/valencia-provincia/,Alaquás,1835.4
+838,/comunitat-valenciana/valencia-provincia/,Albaida,848.8
+839,/comunitat-valenciana/valencia-provincia/,Albal,1923.1
+840,/comunitat-valenciana/valencia-provincia/,Alberic,1105.9
+841,/comunitat-valenciana/valencia-provincia/,Alboraya,3989.82
+842,/comunitat-valenciana/valencia-provincia/,Aldaia,1857.1
+843,/comunitat-valenciana/valencia-provincia/,Alfafar,1999.1
+844,/comunitat-valenciana/valencia-provincia/,Alginet,1256.5
+845,/comunitat-valenciana/valencia-provincia/,Almoines,1158.1
+846,/comunitat-valenciana/valencia-provincia/,Alzira,1254.25
+847,/comunitat-valenciana/valencia-provincia/,Barx,1513.3
+848,/comunitat-valenciana/valencia-provincia/,Bellreguard,1943.6
+849,/comunitat-valenciana/valencia-provincia/,Benaguasil,1571.4
+850,/comunitat-valenciana/valencia-provincia/,Benetusser,1846.8
+851,/comunitat-valenciana/valencia-provincia/,Beniganim,828.1
+852,/comunitat-valenciana/valencia-provincia/,Benimàmet,2187.5
+853,/comunitat-valenciana/valencia-provincia/,Bétera,2329.49
+854,/comunitat-valenciana/valencia-provincia/,Bocairent,865.4
+855,/comunitat-valenciana/valencia-provincia/,Buñol,1069.5
+856,/comunitat-valenciana/valencia-provincia/,Burjassot,2259.51
+857,/comunitat-valenciana/valencia-provincia/,Canals,810.8
+858,/comunitat-valenciana/valencia-provincia/,Canet d'En Berenguer,2901.9
+859,/comunitat-valenciana/valencia-provincia/,Carcaixent,1048.5
+860,/comunitat-valenciana/valencia-provincia/,Carlet,1028.4
+861,/comunitat-valenciana/valencia-provincia/,Catarroja,1653.8
+862,/comunitat-valenciana/valencia-provincia/,Cheste,1319.6
+863,/comunitat-valenciana/valencia-provincia/,Chiva,1686.9
+864,/comunitat-valenciana/valencia-provincia/,Cullera,2430.63
+865,/comunitat-valenciana/valencia-provincia/,Daimus,2497.5
+866,/comunitat-valenciana/valencia-provincia/,El Perellonet,2712.5
+867,/comunitat-valenciana/valencia-provincia/,Enguera,808.9
+868,/comunitat-valenciana/valencia-provincia/,Favara,1156.6
+869,/comunitat-valenciana/valencia-provincia/,Gandia,1912.03
+870,/comunitat-valenciana/valencia-provincia/,Gilet,1695.9
+871,/comunitat-valenciana/valencia-provincia/,Godella,2780.37
+872,/comunitat-valenciana/valencia-provincia/,Godelleta,1600
+873,/comunitat-valenciana/valencia-provincia/,L'Eliana,2641.32
+874,/comunitat-valenciana/valencia-provincia/,L'Olleria,976.8
+875,/comunitat-valenciana/valencia-provincia/,La Font d'En Carrós,1249.9
+876,/comunitat-valenciana/valencia-provincia/,La Pobla de Vallbona,2129.48
+877,/comunitat-valenciana/valencia-provincia/,La Pobla Llarga,1111.1
+878,/comunitat-valenciana/valencia-provincia/,La Torre,1918.6
+879,/comunitat-valenciana/valencia-provincia/,Llíria,1491.59
+880,/comunitat-valenciana/valencia-provincia/,Manises,2187.98
+881,/comunitat-valenciana/valencia-provincia/,Massanassa,1707.3
+882,/comunitat-valenciana/valencia-provincia/,Meliana,2133.2
+883,/comunitat-valenciana/valencia-provincia/,Miramar,2042.3
+884,/comunitat-valenciana/valencia-provincia/,Mislata,2570.22
+885,/comunitat-valenciana/valencia-provincia/,Moncada,2078.7
+886,/comunitat-valenciana/valencia-provincia/,Monserrat,1399
+887,/comunitat-valenciana/valencia-provincia/,Náquera,2006.44
+888,/comunitat-valenciana/valencia-provincia/,Oliva,1891.84
+889,/comunitat-valenciana/valencia-provincia/,Ontinyent,1149.48
+890,/comunitat-valenciana/valencia-provincia/,Paiporta,2183.9
+891,/comunitat-valenciana/valencia-provincia/,Paterna,2287.37
+892,/comunitat-valenciana/valencia-provincia/,Pedralba,1250
+893,/comunitat-valenciana/valencia-provincia/,Picanya,2285.7
+894,/comunitat-valenciana/valencia-provincia/,Picassent,1607.1
+895,/comunitat-valenciana/valencia-provincia/,Piles,1539.8
+896,/comunitat-valenciana/valencia-provincia/,Playa Puig,4378.4
+897,/comunitat-valenciana/valencia-provincia/,Puçol,2395.89
+898,/comunitat-valenciana/valencia-provincia/,Puerto de Sagunto,2007.73
+899,/comunitat-valenciana/valencia-provincia/,Quart de Poblet,2150.7
+900,/comunitat-valenciana/valencia-provincia/,Rafelbunyol,2062.5
+901,/comunitat-valenciana/valencia-provincia/,Requena,714.7
+902,/comunitat-valenciana/valencia-provincia/,Riba-Roja de Túria,1926.6
+903,/comunitat-valenciana/valencia-provincia/,Sagunto/Sagunt,1867.84
+904,/comunitat-valenciana/valencia-provincia/,San Antonio de Benagéber,2336.6
+905,/comunitat-valenciana/valencia-provincia/,Sedavi,1858
+906,/comunitat-valenciana/valencia-provincia/,Serra,1481
+907,/comunitat-valenciana/valencia-provincia/,Silla,1688.7
+908,/comunitat-valenciana/valencia-provincia/,Sollana,1305
+909,/comunitat-valenciana/valencia-provincia/,Sueca,1703.13
+910,/comunitat-valenciana/valencia-provincia/,Tavernes de la Valldigna,1250
+911,/comunitat-valenciana/valencia-provincia/,Torrent,2004.69
+912,/comunitat-valenciana/valencia-provincia/,Turis,1270.5
+913,/comunitat-valenciana/valencia-provincia/,Utiel,623.3
+914,/comunitat-valenciana/valencia-provincia/,Vilamarxant,1357.1
+915,/comunitat-valenciana/valencia-provincia/,Villalonga,1022.1
+916,/comunitat-valenciana/valencia-provincia/,Villanueva de Castellon,808.8
+917,/comunitat-valenciana/valencia-provincia/,Xátiva,1309.1
+918,/comunitat-valenciana/valencia-provincia/,Xeraco,2089.6
+919,/comunitat-valenciana/valencia-provincia/,Xirivella,2060.57
+920,/euskadi/alava/,Vitoria-Gasteiz,3085.11
+921,/euskadi/alava/,Labastida,1357.1
+922,/euskadi/guipuzcoa,Donostia-San Sebastián,6726.14
+923,/euskadi/guipuzcoa,Arrasate o Mondragon,2589.7
+924,/euskadi/guipuzcoa,Bergara,2272.7
+925,/euskadi/guipuzcoa,Eibar,2400
+926,/euskadi/guipuzcoa,Elgoibar,2148.2
+927,/euskadi/guipuzcoa,Hernani,3628.7
+928,/euskadi/guipuzcoa,Hondarribia,5111.1
+929,/euskadi/guipuzcoa,Irun,3410.64
+930,/euskadi/guipuzcoa,Pasaia,3752.4
+931,/euskadi/guipuzcoa,Renteria / Errenteria,3719.18
+932,/euskadi/guipuzcoa,Zarautz,7015.3
+933,/euskadi/vizcaya/,Bilbao,4179.95
+934,/euskadi/vizcaya/,Amorebieta-Echano,2999.3
+935,/euskadi/vizcaya/,Barakaldo,3266.5
+936,/euskadi/vizcaya/,Basauri,3136.35
+937,/euskadi/vizcaya/,Berango,4000
+938,/euskadi/vizcaya/,Durango,3173.9
+939,/euskadi/vizcaya/,Erandio,2932.4
+940,/euskadi/vizcaya/,Galdakao,3050
+941,/euskadi/vizcaya/,Getxo,4762.19
+942,/euskadi/vizcaya/,Leioa,3981.35
+943,/euskadi/vizcaya/,Mungia,2762.8
+944,/euskadi/vizcaya/,Ortuella,2577.5
+945,/euskadi/vizcaya/,Portugalete,3226.08
+946,/euskadi/vizcaya/,Santurtzi,3414.52
+947,/euskadi/vizcaya/,Sestao,2786.75
+948,/euskadi/vizcaya/,Sopelana,4500
+949,/euskadi/vizcaya/,Valle de Trapaga-Trapagaran,2516.7
+950,/extremadura/badajoz-provincia/,Badajoz,1654.47
+951,/extremadura/badajoz-provincia/,Almendralejo,852.9
+952,/extremadura/badajoz-provincia/,Azuaga,512.5
+953,/extremadura/badajoz-provincia/,Castuera,391.3
+954,/extremadura/badajoz-provincia/,Don Benito,1024.9
+955,/extremadura/badajoz-provincia/,Jerez de los Caballeros,819.9
+956,/extremadura/badajoz-provincia/,Mérida,1235.83
+957,/extremadura/badajoz-provincia/,Montijo,612.6
+958,/extremadura/badajoz-provincia/,Olivenza,789.1
+959,/extremadura/badajoz-provincia/,Villanueva de la Serena,721.1
+960,/extremadura/badajoz-provincia/,Zafra,1142.9
+961,/extremadura/caceres-provincia/,Cáceres,1652
+962,/extremadura/caceres-provincia/,Arroyo de la Luz,433.3
+963,/extremadura/caceres-provincia/,Hervas,972.6
+964,/extremadura/caceres-provincia/,Jarandilla de la Vera,815.4
+965,/extremadura/caceres-provincia/,Madrigal de la Vera,857.1
+966,/extremadura/caceres-provincia/,Navalmoral de la Mata,1019.5
+967,/extremadura/caceres-provincia/,Plasencia,1224.03
+968,/extremadura/caceres-provincia/,Trujillo,702.7
+969,/galicia/a-coruna-provincia/,A Coruña,3236.94
+970,/galicia/a-coruna-provincia/,Abegondo,1315.8
+971,/galicia/a-coruna-provincia/,Ames,2018.73
+972,/galicia/a-coruna-provincia/,Ares,1840.8
+973,/galicia/a-coruna-provincia/,Arteixo,1746.64
+974,/galicia/a-coruna-provincia/,Bergondo,1476.2
+975,/galicia/a-coruna-provincia/,Betanzos,1054.4
+976,/galicia/a-coruna-provincia/,Boiro,1740.5
+977,/galicia/a-coruna-provincia/,Brion,1272.2
+978,/galicia/a-coruna-provincia/,Carballo,1060
+979,/galicia/a-coruna-provincia/,Cariño,763.1
+980,/galicia/a-coruna-provincia/,Cedeira,1138.9
+981,/galicia/a-coruna-provincia/,Culleredo,2207.54
+982,/galicia/a-coruna-provincia/,Fene,1049
+983,/galicia/a-coruna-provincia/,Ferrol,1483.2
+984,/galicia/a-coruna-provincia/,Fisterra,1266.5
+985,/galicia/a-coruna-provincia/,Malpica de Bergantiños,1161.1
+986,/galicia/a-coruna-provincia/,Melide,1075.3
+987,/galicia/a-coruna-provincia/,Miño,1730.3
+988,/galicia/a-coruna-provincia/,Mugardos,1237.1
+989,/galicia/a-coruna-provincia/,Muros,1497.3
+990,/galicia/a-coruna-provincia/,Narón,1275.53
+991,/galicia/a-coruna-provincia/,Neda,873.5
+992,/galicia/a-coruna-provincia/,Noia,1225
+993,/galicia/a-coruna-provincia/,Oleiros,2557.17
+994,/galicia/a-coruna-provincia/,Ortigueira,1019.1
+995,/galicia/a-coruna-provincia/,Oza-Cesuras,725.1
+996,/galicia/a-coruna-provincia/,Ponteceso,964
+997,/galicia/a-coruna-provincia/,Puebla del Caramiñal,1500
+998,/galicia/a-coruna-provincia/,Rianxo,954.5
+999,/galicia/a-coruna-provincia/,Ribeira,1584.65
+1000,/galicia/a-coruna-provincia/,Sada,1786.9
+1001,/galicia/a-coruna-provincia/,San Sadurniño,809.3
+1002,/galicia/a-coruna-provincia/,Santiago de Compostela,2342.11
+1003,/galicia/a-coruna-provincia/,Teo,1458.2
+1004,/galicia/a-coruna-provincia/,Valdoviño,1179.1
+1005,/galicia/lugo-provincia/,Lugo,1602.91
+1006,/galicia/lugo-provincia/,Burela,1102
+1007,/galicia/lugo-provincia/,Cervo,1250
+1008,/galicia/lugo-provincia/,Foz,1818.8
+1009,/galicia/lugo-provincia/,Friol,590.9
+1010,/galicia/lugo-provincia/,Ribadeo,1966.4
+1011,/galicia/lugo-provincia/,Sarria,1036.1
+1012,/galicia/lugo-provincia/,Viveiro,1208.7
+1013,/galicia/ourense-provincia/,Ourense,1726.65
+1014,/galicia/ourense-provincia/,Allariz,514.8
+1015,/galicia/ourense-provincia/,Amoeiro,440
+1016,/galicia/ourense-provincia/,Barbadas,1029.4
+1017,/galicia/ourense-provincia/,Leiro,444.4
+1018,/galicia/ourense-provincia/,Nogueira de Ramuin,490.2
+1019,/galicia/ourense-provincia/,O Barco de Valdeorras,833.1
+1020,/galicia/ourense-provincia/,O Carballiño,737.7
+1021,/galicia/ourense-provincia/,Pereiro de Aguiar,916.7
+1022,/galicia/ourense-provincia/,Puebla de Trives,600
+1023,/galicia/ourense-provincia/,Ribadavia,646.4
+1024,/galicia/ourense-provincia/,San Cibrao das Viñas,894
+1025,/galicia/ourense-provincia/,Toén,656.9
+1026,/galicia/ourense-provincia/,Xinzo de Limia,637.1
+1027,/galicia/pontevedra-provincia/,Pontevedra,2626.2
+1028,/galicia/pontevedra-provincia/,A Cañiza,908.5
+1029,/galicia/pontevedra-provincia/,A Guarda,1099.9
+1030,/galicia/pontevedra-provincia/,Baiona,2647.8
+1031,/galicia/pontevedra-provincia/,Bueu,1923.1
+1032,/galicia/pontevedra-provincia/,Cangas,2201.93
+1033,/galicia/pontevedra-provincia/,Cerdedo-Cotobade,723.7
+1034,/galicia/pontevedra-provincia/,Gondomar,1296.3
+1035,/galicia/pontevedra-provincia/,Illa de Arousa,3000
+1036,/galicia/pontevedra-provincia/,Lalin,1031.7
+1037,/galicia/pontevedra-provincia/,Marin,1558.4
+1038,/galicia/pontevedra-provincia/,Moaña,1655.2
+1039,/galicia/pontevedra-provincia/,Mondariz,1136.4
+1040,/galicia/pontevedra-provincia/,Nigran,3031.08
+1041,/galicia/pontevedra-provincia/,O Grove,2571.1
+1042,/galicia/pontevedra-provincia/,O Porriño,1407
+1043,/galicia/pontevedra-provincia/,O Rosal,1181.1
+1044,/galicia/pontevedra-provincia/,Poio,1908.18
+1045,/galicia/pontevedra-provincia/,Ponteareas,1300
+1046,/galicia/pontevedra-provincia/,Redondela,1471.3
+1047,/galicia/pontevedra-provincia/,Salvaterra de Miño,1467.9
+1048,/galicia/pontevedra-provincia/,Sanxenxo,3404.76
+1049,/galicia/pontevedra-provincia/,Silleda,811.4
+1050,/galicia/pontevedra-provincia/,Tui,1551.7
+1051,/galicia/pontevedra-provincia/,Vigo,2570.24
+1052,/galicia/pontevedra-provincia/,Vilagarcía de Arousa,1743.96
+1053,/galicia/pontevedra-provincia/,Vilanova de Arousa,2023.8
+1054,/la-rioja/la-rioja/,Logroño,2157.28
+1055,/la-rioja/la-rioja/,Alfaro,1036
+1056,/la-rioja/la-rioja/,Calahorra,1317
+1057,/la-rioja/la-rioja/,Ezcaray,1527.8
+1058,/la-rioja/la-rioja/,Fuenmayor,1037
+1059,/la-rioja/la-rioja/,Haro,1304.3
+1060,/la-rioja/la-rioja/,Lardero,1917.3
+1061,/la-rioja/la-rioja/,Santo Domingo de la Calzada,865.4
+1062,/la-rioja/la-rioja/,Villamediana de Iregua,1772.7
+1063,/madrid-comunidad/madrid-provincia/,Madrid,6458.09
+1064,/madrid-comunidad/madrid-provincia/,Alcalá de Henares,3013.96
+1065,/madrid-comunidad/madrid-provincia/,Alcobendas,4111.06
+1066,/madrid-comunidad/madrid-provincia/,Alcorcón,3537.07
+1067,/madrid-comunidad/madrid-provincia/,Algete,2315.1
+1068,/madrid-comunidad/madrid-provincia/,Alpedrete,3000
+1069,/madrid-comunidad/madrid-provincia/,Aranjuez,2383.97
+1070,/madrid-comunidad/madrid-provincia/,Arganda,2676.08
+1071,/madrid-comunidad/madrid-provincia/,Arroyomolinos,2692.72
+1072,/madrid-comunidad/madrid-provincia/,Becerril de la Sierra,2345.8
+1073,/madrid-comunidad/madrid-provincia/,Boadilla del Monte,4383.88
+1074,/madrid-comunidad/madrid-provincia/,Camarma de Esteruelas,2191.9
+1075,/madrid-comunidad/madrid-provincia/,Campo Real,2321.5
+1076,/madrid-comunidad/madrid-provincia/,Cercedilla,2429.3
+1077,/madrid-comunidad/madrid-provincia/,Ciempozuelos,2189.8
+1078,/madrid-comunidad/madrid-provincia/,Ciudalcampo,3630.3
+1079,/madrid-comunidad/madrid-provincia/,Collado Mediano,2525.6
+1080,/madrid-comunidad/madrid-provincia/,Collado Villalba,2903.6
+1081,/madrid-comunidad/madrid-provincia/,Colmenar de Oreja,1473.5
+1082,/madrid-comunidad/madrid-provincia/,Colmenar Viejo,3151.17
+1083,/madrid-comunidad/madrid-provincia/,Colmenarejo,2567
+1084,/madrid-comunidad/madrid-provincia/,Coslada,3281.3
+1085,/madrid-comunidad/madrid-provincia/,El Escorial,2757.07
+1086,/madrid-comunidad/madrid-provincia/,El Molar,2440.7
+1087,/madrid-comunidad/madrid-provincia/,Eurovillas,1648.1
+1088,/madrid-comunidad/madrid-provincia/,Fuenlabrada,2886.54
+1089,/madrid-comunidad/madrid-provincia/,Fuente del Fresno,3647.4
+1090,/madrid-comunidad/madrid-provincia/,Galapagar,2839.8
+1091,/madrid-comunidad/madrid-provincia/,Getafe,3334.51
+1092,/madrid-comunidad/madrid-provincia/,Griñón,2278.9
+1093,/madrid-comunidad/madrid-provincia/,Guadarrama,2741.9
+1094,/madrid-comunidad/madrid-provincia/,Hoyo de Manzanares,2893.8
+1095,/madrid-comunidad/madrid-provincia/,Humanes de Madrid,2666.7
+1096,/madrid-comunidad/madrid-provincia/,La Moraleja,7245.73
+1097,/madrid-comunidad/madrid-provincia/,Las Rozas de Madrid,4025.63
+1098,/madrid-comunidad/madrid-provincia/,Leganés,3234.3
+1099,/madrid-comunidad/madrid-provincia/,Loeches,2187.4
+1100,/madrid-comunidad/madrid-provincia/,Majadahonda,4867.62
+1101,/madrid-comunidad/madrid-provincia/,Manzanares el Real,2405.1
+1102,/madrid-comunidad/madrid-provincia/,Meco,2141.2
+1103,/madrid-comunidad/madrid-provincia/,Mejorada del Campo,2572.8
+1104,/madrid-comunidad/madrid-provincia/,Móstoles,3047.34
+1105,/madrid-comunidad/madrid-provincia/,Navalcarnero,2416.27
+1106,/madrid-comunidad/madrid-provincia/,Paracuellos de Jarama,3012.33
+1107,/madrid-comunidad/madrid-provincia/,Parla,2457.11
+1108,/madrid-comunidad/madrid-provincia/,Pinto,2929.92
+1109,/madrid-comunidad/madrid-provincia/,Pozuelo de Alarcón,4963.54
+1110,/madrid-comunidad/madrid-provincia/,Rivas-Vaciamadrid,3309.67
+1111,/madrid-comunidad/madrid-provincia/,Robledo de Chavela,1597.2
+1112,/madrid-comunidad/madrid-provincia/,San Agustin de Guadalix,3105.3
+1113,/madrid-comunidad/madrid-provincia/,San Fernando de Henares,2885.64
+1114,/madrid-comunidad/madrid-provincia/,San Lorenzo de El Escorial,2936.67
+1115,/madrid-comunidad/madrid-provincia/,San Martín de la Vega,2021.2
+1116,/madrid-comunidad/madrid-provincia/,San Sebastián de los Reyes,4170.14
+1117,/madrid-comunidad/madrid-provincia/,Santo Domingo,2510.5
+1118,/madrid-comunidad/madrid-provincia/,Sevilla la Nueva,2680.8
+1119,/madrid-comunidad/madrid-provincia/,Soto del Real,2858.2
+1120,/madrid-comunidad/madrid-provincia/,Torrejón de Ardoz,3119.07
+1121,/madrid-comunidad/madrid-provincia/,Torrelaguna,1648.6
+1122,/madrid-comunidad/madrid-provincia/,Torrelodones,2967.85
+1123,/madrid-comunidad/madrid-provincia/,Tres Cantos,4135.78
+1124,/madrid-comunidad/madrid-provincia/,Valdemorillo,2480.66
+1125,/madrid-comunidad/madrid-provincia/,Valdemoro,2522.32
+1126,/madrid-comunidad/madrid-provincia/,Velilla de San Antonio,2620.4
+1127,/madrid-comunidad/madrid-provincia/,Villa del Prado,1519.2
+1128,/madrid-comunidad/madrid-provincia/,Villalbilla,2240
+1129,/madrid-comunidad/madrid-provincia/,Villanueva de la Cañada,2940.67
+1130,/madrid-comunidad/madrid-provincia/,Villanueva del Pardillo,3310.2
+1131,/madrid-comunidad/madrid-provincia/,Villarejo de Salvanés,1439.5
+1132,/madrid-comunidad/madrid-provincia/,Villaviciosa de Odón,3601.64
+1133,/melilla/melilla-provincia/,Melilla,2085.82
+1134,/murcia-region/murcia-provincia/,Murcia,1734.73
+1135,/murcia-region/murcia-provincia/,Abanilla,1440.7
+1136,/murcia-region/murcia-provincia/,Abarán,512.9
+1137,/murcia-region/murcia-provincia/,Águilas,1635.48
+1138,/murcia-region/murcia-provincia/,Alcantarilla,1117.2
+1139,/murcia-region/murcia-provincia/,Alguazas,511.1
+1140,/murcia-region/murcia-provincia/,Alhama de Murcia,1579.46
+1141,/murcia-region/murcia-provincia/,Archena,911.1
+1142,/murcia-region/murcia-provincia/,Beniel,1033.7
+1143,/murcia-region/murcia-provincia/,Blanca,791.7
+1144,/murcia-region/murcia-provincia/,Bullas,599.8
+1145,/murcia-region/murcia-provincia/,Calasparra,1266.1
+1146,/murcia-region/murcia-provincia/,Caravaca de la Cruz,791.3
+1147,/murcia-region/murcia-provincia/,Cartagena,1802.05
+1148,/murcia-region/murcia-provincia/,Cehegin,641.1
+1149,/murcia-region/murcia-provincia/,Ceuti,872
+1150,/murcia-region/murcia-provincia/,Cieza,1000
+1151,/murcia-region/murcia-provincia/,Fortuna,1110.2
+1152,/murcia-region/murcia-provincia/,Fuente-Álamo,1479.92
+1153,/murcia-region/murcia-provincia/,Jumilla,791.1
+1154,/murcia-region/murcia-provincia/,La Manga del Mar Menor,2462.53
+1155,/murcia-region/murcia-provincia/,La Union,1150.46
+1156,/murcia-region/murcia-provincia/,Las Torres de Cotillas,973.3
+1157,/murcia-region/murcia-provincia/,Lorca,1400.86
+1158,/murcia-region/murcia-provincia/,Los Alcázares,2149.87
+1159,/murcia-region/murcia-provincia/,Mazarrón,2037.84
+1160,/murcia-region/murcia-provincia/,Molina de Segura,1434.58
+1161,/murcia-region/murcia-provincia/,Moratalla,645.6
+1162,/murcia-region/murcia-provincia/,Mula,714.3
+1163,/murcia-region/murcia-provincia/,Puerto Lumbreras,1080.7
+1164,/murcia-region/murcia-provincia/,San Javier,2108.48
+1165,/murcia-region/murcia-provincia/,San Pedro del Pinatar,2042.68
+1166,/murcia-region/murcia-provincia/,Santomera,1119.8
+1167,/murcia-region/murcia-provincia/,Torre-Pacheco,2078.77
+1168,/murcia-region/murcia-provincia/,Totana,1173.3
+1169,/murcia-region/murcia-provincia/,Villanueva del Rio Segura,914.8
+1170,/murcia-region/murcia-provincia/,Yecla,866.7
+1171,/navarra/navarra/,Pamplona/Iruña,3105.97
+1172,/navarra/navarra/,Egüés,2241.2
+1173,/navarra/navarra/,Estella,1719.6
+1174,/navarra/navarra/,Tafalla,1436.6
+1175,/navarra/navarra/,Tudela,1678.3
