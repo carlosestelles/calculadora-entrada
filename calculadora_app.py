@@ -139,13 +139,25 @@ with column2:
 
 st.divider()
 
+# Ahorrar o sobra dinero?
+if ahorros >= entrada:
+    remanente = ahorros - entrada
+    conclusion_ahorrar = f'Te sobran {remanente:,.2f}€ para la entrada.'
+else:
+    conclusion_ahorrar = f'Necesitas ahorrar {entrada_real:,.2f}€ para la entrada'
+
 # Detalles
 with st.expander('Mostrar detalles', type = 'compact'):
-    st.write(f"Un piso de 90 m² en {st.session_state.municipio} cuesta {prec_piso:,.2f}€ de media y necesitas ahorrar {entrada_real:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
+    if st.session_state.municipio == 'None':
+        st.write("Selecciona provincia y municipio")
+    else:
+        st.write(f"Un piso de 90 m² en {st.session_state.municipio} cuesta de media {prec_piso:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
+        st.write(conclusion_ahorrar.replace(",", "@").replace(".",",").replace("@","."))
+
     # Ahorro mensual
     st.write(f"Tu ahorro mensual: {ahorro_mensual:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
     
-    st.caption("Para calcular la entrada se suma el 20\% del valor del inmueble más un 10\% de gastos")
+    st.caption("Para calcular la entrada se suma el 20\% del valor del inmueble más un 10\% de gastos.")
 
     # Fuente
-    st.caption("Fuente precios: Idealista, septiembre 2026")
+    st.caption("Fuente de precios: Idealista, septiembre 2026.")
