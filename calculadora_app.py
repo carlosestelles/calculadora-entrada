@@ -96,17 +96,20 @@ col3, col4, col5 = st.columns(3)
 with col3:
     salario = st.number_input('Sueldo neto mensual (€)',
                             value       = 1500,
+                            min_value   = 1,
                             placeholder = "Salario",
                             width=160)
 
 with col4:
     ahorro_porcen = st.number_input('Ahorro mensual (%)',
                             value       = 20,
+                            min_value   = 1,
                             placeholder = "Porc ahorro",
                             width=160)
 with col5:
     ahorros = st.number_input('Tus ahorros (€)',
                             value       = 0,
+                            min_value   = 0,
                             placeholder="Dinero ahorrado",
                             width=160)
 
@@ -122,7 +125,12 @@ anyos = meses / 12
 column1, column2 = st.columns(2)
 with column1:
     st.space("xxsmall")
-    st.subheader(f"Tardarías {anyos:,.1f} años".replace(",", "@").replace(".",",").replace("@","."))
+    if st.session_state.municipio == 'None':
+        st.subheader("Tardarías:")
+    elif ahorros > entrada:
+        st.subheader("Tienes suficiente ahorrado para la entrada🎈")
+    else:
+        st.subheader(f"Tardarías: {anyos:,.1f} años".replace(",", "@").replace(".",",").replace("@","."))
 
 with column2:
     # Si queremos resetear valores
@@ -133,10 +141,11 @@ st.divider()
 
 # Detalles
 with st.expander('Mostrar detalles', type = 'compact'):
-    st.write(f"Un piso de 90 m2 en {st.session_state.municipio} cuesta {prec_piso:,.2f}€ y necesitas ahorrar {entrada_real:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
-
+    st.write(f"Un piso de 90 m² en {st.session_state.municipio} cuesta {prec_piso:,.2f}€ de media y necesitas ahorrar {entrada_real:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
     # Ahorro mensual
-    st.write(f"Ahorro mensual: {ahorro_mensual:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
+    st.write(f"Tu ahorro mensual: {ahorro_mensual:,.2f}€".replace(",", "@").replace(".",",").replace("@","."))
+    
+    st.caption("Para calcular la entrada se suma el 20\% del valor del inmueble más un 10\% de gastos")
 
     # Fuente
     st.caption("Fuente precios: Idealista, septiembre 2026")
